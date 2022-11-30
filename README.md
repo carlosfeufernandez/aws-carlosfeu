@@ -4,7 +4,7 @@
 
 - El primer paso que debemos realizar es la clonación del repositorio de github que es el siguiente:
 
-  https://github.com/KeepCodingCloudDevops6/aws-carlosfeu.git
+  https://github.com/carlosfeufernandez/aws-carlosfeu.git
 
 ## Requisitos 
 
